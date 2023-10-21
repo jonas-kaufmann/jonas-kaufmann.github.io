@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Sc. Thesis and HiWi at MPI-SWS, CS at Saarland University
+subtitle: MSc Thesis and HiWi at MPI-SWS, CS at Saarland University
 
 profile:
   align: right
