@@ -18,10 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hey there, I'm a computer science student at Saarland University and a member of
 the [Operating Systems Group](https://os.mpi-sws.org/) at the Max Planck
-Institute for Software Systems under the supervision of my namesake [Antoine
-Kaufmann](https://people.mpi-sws.org/~antoinek/). There, I am helping to develop
-the full system simulation framework [SimBricks](https://simbricks.github.io/)
-as well as spinning off my own project
+Institute for Software Systems (MPI-SWS) under the supervision of my namesake
+[Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/). There, I am helping
+to develop the full system simulation framework
+[SimBricks](https://simbricks.github.io/) as well as spinning off my own project
 [AC⚡DSim](/assets/pdf/sosp_src_acdsim_poster.pdf).
 
 Generally, I enjoy playing around with hard- and software to figure out what
