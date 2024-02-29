@@ -21,13 +21,13 @@ the [Operating Systems Group](https://os.mpi-sws.org/) at the Max Planck
 Institute for Software Systems (MPI-SWS) under the supervision of my namesake
 [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/). There, I am helping
 to develop the full system simulation framework
-[SimBricks](https://simbricks.github.io/) as well as spinning off my own project
-[AC⚡DSim](/assets/pdf/sosp_src_acdsim_poster.pdf).
+[SimBricks](https://simbricks.github.io/), as well as spinning off my own
+project [AC⚡DSim](/assets/pdf/sosp_src_acdsim_poster.pdf).
 
 Generally, I enjoy playing around with hard- and software to figure out what
-makes it perform decently or run efficiently. During my time at the university,
-I developed a particular interest in Operating Systems, Distributed Systems,
-High-Performance Networking, Software Engineering, as well as also some theory
-here and there. It's a lot of fun applying the obtained knowledge and combining
-it with existing state-of-the-art work and approaches to build something new and
-even more useful.
+makes a system tick or perform decently. During my time at the university, I
+have developed a particular interest in Operating Systems, Distributed Systems,
+High-Performance Networking, Software Engineering, as well as some theory here
+and there. I enjoy applying the obtained knowledge and combining it with
+existing state-of-the-art work and approaches to build something even more
+useful.
