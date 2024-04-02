@@ -186,7 +186,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
 
     .address {
       p {
@@ -606,10 +606,13 @@ footer.sticky-bottom {
     }
   }
 
+  .card-body {
+    height: 320px;
+  }
+
   .grid-sizer,
   .grid-item {
     width: 250px;
-    margin-bottom: 10px;
   }
 
   h2.category {
@@ -619,6 +622,14 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+  }
+
+  div.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
   }
 }
 

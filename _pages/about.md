@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
 subtitle: MSc Thesis and HiWi at MPI-SWS, CS at Saarland University
 
@@ -41,7 +41,7 @@ software that enable significant speed-ups through tight integration.
 
 <div class="projects">
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <div class="grid">
+  <div class="flex-container">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
