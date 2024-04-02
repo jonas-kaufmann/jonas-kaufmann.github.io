@@ -6,7 +6,7 @@ subtitle: MSc Thesis and HiWi at MPI-SWS, CS at Saarland University
 
 profile:
   align: right
-  image: profile_picture_website.jpg
+  image: profile_picture_website_cut_compressed.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
